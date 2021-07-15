@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello ✨  I am Shreyas Fadnavis!
 
-<!--
-**ShreyasFadnavis/ShreyasFadnavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Machine Learning, Neuroscience and Computational Imaging
+- I actively contribute to and am a core team member of [DIPY](www.dipy.org)!
+- I am a PhD Candidate at Indiana University Bloomington :)
 
-Here are some ideas to get you started:
+Interests:
+- Self-supervised Learning
+- Signal Processing
+- Biophysical Modeling
+- Invariant Representations
+- Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Playlist:
+- King Gizzard & The Lizard Wizard
+- Parcels
+- The Strokes
+
+#### Twitter: [@ShreyasSF](https://twitter.com/ShreyasSF) 
+#### Spotify: [@shreyasfadnavis](https://open.spotify.com/user/shreyasfadnavis)
