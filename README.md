@@ -15,6 +15,8 @@ Current Playlist:
 - King Gizzard & The Lizard Wizard
 - Parcels
 - The Strokes
+- Cluster
+- Harold Budd
 
 #### Twitter: [@ShreyasSF](https://twitter.com/ShreyasSF) 
 #### Spotify: [@shreyasfadnavis](https://open.spotify.com/user/shreyasfadnavis)
