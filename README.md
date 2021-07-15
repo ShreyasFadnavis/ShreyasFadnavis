@@ -11,7 +11,7 @@ Interests:
 - Invariant Representations
 - Optimization
 
-Current Playlist:
+Current Fav Artists:
 - King Gizzard & The Lizard Wizard
 - Parcels
 - The Strokes
