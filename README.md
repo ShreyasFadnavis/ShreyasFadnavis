@@ -21,4 +21,4 @@ Current Playlist:
 #### Twitter: [@ShreyasSF](https://twitter.com/ShreyasSF) 
 #### Spotify: [@shreyasfadnavis](https://open.spotify.com/user/shreyasfadnavis)
 
-[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasFadnavis)](https://github.com/ShreyasFadnavis/github-readme-stats)
+[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasFadnavis)]
