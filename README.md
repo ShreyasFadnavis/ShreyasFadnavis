@@ -6,7 +6,7 @@
 
 Interests:
 - Self-supervised Learning
-- Signal Processing
+- Signal Processing (Focus on Denoising!)
 - Biophysical Modeling
 - Invariant Representations
 - Optimization
