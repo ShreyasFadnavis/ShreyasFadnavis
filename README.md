@@ -1,6 +1,6 @@
 ### Hello ✨  I am Shreyas Fadnavis!
 
-- 🔭 I’m currently working on Machine Learning, Neuroscience and Computational Imaging
+- 🔭 I’m currently working on Machine Learning and Computational Imaging
 - I actively contribute to and am a core team member of [DIPY](https://dipy.org/)!
 - I am a PhD Candidate at Indiana University Bloomington :)
 
