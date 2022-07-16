@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Machine Learning and Computational Imaging
 - I actively contribute to and am a core team member of [DIPY](https://dipy.org/)!
-- I am a PhD Candidate at Indiana University Bloomington :)
+- I am a Postdoctoral Research Fellow at Harvard/ HMS :)
 
 Interests:
 - Self-supervised Learning
