@@ -21,3 +21,5 @@ Current Fav Artists:
 
 #### Twitter: [@ShreyasSF](https://twitter.com/ShreyasSF) 
 #### Spotify: [@shreyasfadnavis](https://open.spotify.com/user/shreyasfadnavis)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyasFadnavis)](https://github.com/ShreyasFadnavis/github-profile-trophy)
